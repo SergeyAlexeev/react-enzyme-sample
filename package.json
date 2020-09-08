@@ -7,7 +7,7 @@
     "test": "NODE_ENV=test node ./node_modules/karma/bin/karma start"
   },
   "keywords": [],
-  "author": "alekseevsa <alekseevsa@tutu.tech>",
+  "author": "alekseev",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.10.4",
